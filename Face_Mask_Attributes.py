@@ -13,10 +13,10 @@ from aliyunsdkfacebody.request.v20191230.RecognizeFaceRequest import RecognizeFa
 from aliyunsdkfacebody.request.v20191230.RecognizeExpressionRequest import RecognizeExpressionRequest
 
 # 阿里云的AccessKey和Secert(处于隐私和安全考虑，已省去)
-AccessKey = 'LTAI4G5oCUcAbm2UyhtaRQZ8'
-Secert = 'ccbyw5i1LNSo2SFwftqunZyn2Xw8gv'
+AccessKey = 'XXXXXXXXXXXXXXXXXXX'
+Secert = 'XXXXXXXXXXXXXXXXX'
 # 阿里云OSS对象存储的Bucket名字
-BucketName = 'py-face-images'
+BucketName = 'XXXXXXXX'
 
 # OpenCV分类器的完整路径
 face_classfier_path = "haarcascade_frontalface_alt.xml"
